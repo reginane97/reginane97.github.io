@@ -1,4 +1,4 @@
-![Alt text](/Users/reginaebo/reginaebo.github.io/Ebo_Regina_Professional_Picture.jpg?raw=true "Title")
+![Alt text](/Users/reginaebo/reginane97.github.io/Ebo_Regina_Professional_Picture.jpg?raw=true "Title")
 
 <b> About </b>
 I am a PhD student in the Psychology Department at the University of California, Berkeley.
