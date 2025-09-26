@@ -1,4 +1,14 @@
-![Alt text](/Users/reginaebo/reginane97.github.io/Ebo_Regina_Professional_Picture.jpg?raw=true "Title")
+---
+permalink: /
+title: Regina Ebo🏻
+excerpt: true
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+![alt text](https://github.com/reginane97/reginane97.github.io/blob/main/Ebo_Regina_Professional_Picture.jpg?raw=true)
 
 <b> About </b>
 I am a PhD student in the Psychology Department at the University of California, Berkeley.
