@@ -1,6 +1,4 @@
-<p style="font-size: 20px;">Hi, my name is Regina </p>
-
-![alt text](https://github.com/reginane97/reginane97.github.io/blob/main/Ebo_Regina_Professional_Picture.jpg?raw=true)
+<p style="font-size: 20px;">Hi, my name is Regina! </p>
 
 <b> About </b> <br>
 <p> I am a PhD student in the Psychology Department at the University of California, Berkeley. </p>
